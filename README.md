@@ -32,7 +32,7 @@ Despite collecting data across multiple customer touchpoints, the brand had no s
 
 ### Questions I Set Out to Answer
 
-1. Who were the Champions — and what did their behaviour look like compared to everyone else?
+1. Who were the Champions and what did their behaviour look like compared to everyone else?
 2. Which customers were showing early signs of disengagement before they stopped buying entirely?
 3. When I evaluated acquisition channels by lifetime value rather than customer count, did the ranking change?
 4. What measurably separated a new customer from a loyal one?
@@ -292,10 +292,6 @@ The strategic recommendations were built from behavioural data. Running A/B test
 
 **4. Expand the feature set for K-Means.**
 The clustering used five features. Adding product category history, return rate, seasonal purchase patterns and device type would produce more granular clusters, particularly within the large Potential Loyalists group (377 customers, 37.7% of the base) which was likely hiding meaningful sub-segments.
-
----
-
-*Dataset designed to simulate real-world CRM data imperfections — missing values, duplicates and categorical inconsistencies included deliberately. All analytical methodology, segmentation logic and business recommendations are original work.*
 
 ---
 
